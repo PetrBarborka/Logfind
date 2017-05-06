@@ -2,7 +2,7 @@
 
 This is my shot at excercise 26 of the Learn C the hard way book by Zed Shaw.
 
-tldr: searches files for keywords.
+**tl;dr**: searches files for keywords.
 
 It is a small program emulating some of the functionality of grep. Fill the file
 ./logfind with names of files you want scanned ( allowing for glob syntax and 
